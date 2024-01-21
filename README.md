@@ -14,11 +14,11 @@
 
 ### :zap: My Certifications:  :zap:
 
-### Thank you for visiting my profile and please feel free to reach out to me if you have any questions or would like to collaborate on any projects together. 
+## Thank you for visiting my profile and please feel free to reach out to me if you have any questions or would like to collaborate on any projects together. 
 
 ### Email: kh3art@outlook.com
 
-### Phone Number: (470) 686-0907
+### Phone: (470) 686-0907
 
 ## :jigsaw: Also, please feel free to check out my "Respositories" for all of my latest projects :jigsaw: 
 
