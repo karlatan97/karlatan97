@@ -2,11 +2,10 @@
 
 # :raising_hand_man: Hey Everyone! 
 ### My name is Karla Tan, 
-### Education: Bachelor's degree from VSU and a Master degrees in Computer Science :trophy: 
 
-## Email: kh3art@outlook.com
+### My goal is to work as a Software Engineer for a company that will value my talent :trophy: 
 
-## Phone Number: (470) 686-0907
+### My Education: Bachelor's degree from VSU and a Master degrees in Computer Science :trophy: 
 
 ## My Youtube Channel: 
 
@@ -14,12 +13,13 @@
 
 ## :zap: My Certifications:  :zap:
 
-### My goal is to work as a Software Engineer for a company that will value my talent :trophy: 
-
-### :jigsaw: Also, please feel free to check out my "Respositories" for all of my latest projects :jigsaw: 
-
 ### Thank you for visiting my profile and please feel free to reach out to me if you have any questions or would like to collaborate on any projects together. 
 
+## Email: kh3art@outlook.com
+
+## Phone Number: (470) 686-0907
+
+### :jigsaw: Also, please feel free to check out my "Respositories" for all of my latest projects :jigsaw: 
 
 <!--
 This is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
