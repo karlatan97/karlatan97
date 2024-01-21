@@ -1,8 +1,8 @@
 [![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--PJZtCgZz--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8hwuxnz09e8mhfl7tl9c.gif)](https://rishavchanda.io)
 
 # :raising_hand_man: Hey Everyone! 
-### My name is David Tan 
-### Education: Bachelor's degree in Computer Science and 3 Master degrees: an MBA, a Master in Computer Science, and a Master in Data Science :trophy: 
+### My name is Karla Tan 
+### Education: Bachelor's degree from VSU and a Master degrees in Computer Science :trophy: 
 
 ### My goal is to work as a Software Engineer for a company that will value my talent :trophy: 
 
@@ -10,11 +10,13 @@
 
 ### Thank you for visiting my profile and please feel free to reach out to me if you have any questions or would like to collaborate on any projects together. 
 
-## Email: dqtruong@valdosta.edu
+## Email: kh3art@outlook.com
 
-## Phone Number: (404) 452-8263
+## Phone Number: (470) 686-0907
 
-## My Youtube Channel: https://tinyurl.com/p8psyuhv
+## My Website: https://www.karlatan.com
+
+## My Youtube Channel: 
 
 ## :desktop_computer: My Website: www.dtan.org :desktop_computer:
 
