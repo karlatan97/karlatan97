@@ -1,7 +1,7 @@
 [![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--PJZtCgZz--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8hwuxnz09e8mhfl7tl9c.gif)](https://rishavchanda.io)
 
 # :raising_hand_man: Hey Everyone! 
-### My name is Karla Tan 
+### My name is Karla Tan, 
 ### Education: Bachelor's degree from VSU and a Master degrees in Computer Science :trophy: 
 
 ### My goal is to work as a Software Engineer for a company that will value my talent :trophy: 
