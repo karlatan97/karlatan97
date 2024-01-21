@@ -4,7 +4,7 @@
 
 ## My name is Karla Tan, 
 
-### Objective: to work as a Software Engineer for a company that will value my talent :trophy: 
+### Objective: To work as a Software Engineer for a company that will value my talent :trophy: 
 
 ### Educations: Bachelor's degree from VSU and a Master degrees in Computer Science :trophy: 
 
