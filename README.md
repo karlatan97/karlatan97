@@ -14,11 +14,9 @@
 
 ## Phone Number: (470) 686-0907
 
-## My Website: https://www.karlatan.com
-
 ## My Youtube Channel: 
 
-## :desktop_computer: My Website: www.dtan.org :desktop_computer:
+## :desktop_computer: My Website: www.karlatan.com :desktop_computer:
 
 ## :zap: My Certifications: https://tinyurl.com/3jdcfhkp :zap:
 
