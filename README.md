@@ -20,11 +20,9 @@
 
 ## :zap: My Certifications:  :zap:
 
-<img align="right" alt="Coding" width="380" src="https://camo.githubusercontent.com/b4fa1c3f8396f4cca9efc5ba95115f08dae17d7855e3aef106c2ab74ea44ab09/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f62642f34652f64332f62643465643332373138396332613536363935626562393163643533343537302e676966" />
-
 
 <!--
-**skytruong90/skytruong90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
