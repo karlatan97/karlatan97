@@ -1,25 +1,25 @@
 [![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--PJZtCgZz--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8hwuxnz09e8mhfl7tl9c.gif)](https://rishavchanda.io)
 
 # :raising_hand_man: Hey Everyone! 
-### My name is Karla Tan, 
+## My name is Karla Tan, 
 
-## My goal is to work as a Software Engineer for a company that will value my talent :trophy: 
+### My goal is to work as a Software Engineer for a company that will value my talent :trophy: 
 
-## My Education: Bachelor's degree from VSU and a Master degrees in Computer Science :trophy: 
+### My Education: Bachelor's degree from VSU and a Master degrees in Computer Science :trophy: 
 
-## My Youtube Channel: 
+### My Youtube Channel: 
 
-## :desktop_computer: My Website: www.karlatan.com :desktop_computer:
+### :desktop_computer: My Website: www.karlatan.com :desktop_computer:
 
-## :zap: My Certifications:  :zap:
+### :zap: My Certifications:  :zap:
 
 ### Thank you for visiting my profile and please feel free to reach out to me if you have any questions or would like to collaborate on any projects together. 
 
-## Email: kh3art@outlook.com
+### Email: kh3art@outlook.com
 
-## Phone Number: (470) 686-0907
+### Phone Number: (470) 686-0907
 
-### :jigsaw: Also, please feel free to check out my "Respositories" for all of my latest projects :jigsaw: 
+## :jigsaw: Also, please feel free to check out my "Respositories" for all of my latest projects :jigsaw: 
 
 <!--
 This is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
